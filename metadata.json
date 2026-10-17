@@ -1,0 +1,6 @@
+{
+  "name": "Magic Mig Jams",
+  "description": "Artisanal small-batch preserves handcrafted in Sunnydale, Cape Town. Naturally sweetened with xylitol and made with love as a tribute to Migale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
